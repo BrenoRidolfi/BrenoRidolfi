@@ -20,7 +20,7 @@
 - React JS
 - SQL SERVER
 - REDIS
--
+
 ## My academic education 🎓
 - Bachelor's Degree in Computer Science
 
